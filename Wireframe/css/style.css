@@ -13,6 +13,7 @@ header {
 .article1 {
     border: 2px black solid;
     margin-bottom: 30px;
+    padding: 10px 20px;
 }
 .container {
     display: flex;
@@ -21,9 +22,11 @@ header {
 .child1 {
     border: 2px black solid;
     margin-right: 30px;
+    padding: 10px 20px;
 }
 .child2 {
     border: 2px black solid;
+    padding: 10px 20px;
 }
 footer {
     text-align: center;
