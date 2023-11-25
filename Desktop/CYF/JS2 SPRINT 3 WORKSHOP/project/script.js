@@ -17,7 +17,7 @@ userDiv.appendChild(image);
 let currentUser = 0;
 
 function displayUser(num) {
-  console.log(num);
+
   const userName = users[num].user.name;
   const address = users[num].user.location;
   const pic = users[num].user.picture;
